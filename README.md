@@ -1,6 +1,6 @@
 # War Cards Game
 
-The idea:  
+### The idea:  
 Me and my friends asked ask ourselves if cards war has an end to it. It seems that the game can go forever.  
   
 So I decided to write a program in Java to check if the game has an end, and if so - that is the  
